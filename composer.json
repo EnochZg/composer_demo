@@ -1,6 +1,6 @@
 {
     "name": "enochzg/composer_demo",
-    "minimum-stability": "master",
+    "minimum-stability": "v1.0.0",
     "authors": [
         {
             "name": "Enoch",
