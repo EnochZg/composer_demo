@@ -1,11 +1,10 @@
 {
     "name": "enochzg/composer_demo",
-    "minimum-stability": "dev",
+    "minimum-stability": "master",
     "authors": [
         {
             "name": "Enoch",
             "email": "15989529532@163.com"
         }
-    ],
-    "require": {}
+    ]
 }
