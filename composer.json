@@ -1,0 +1,10 @@
+{
+    "name": "root/composer_demo",
+    "authors": [
+        {
+            "name": "Enoch",
+            "email": "15989529532@163.com"
+        }
+    ],
+    "require": {}
+}
